@@ -1,0 +1,5 @@
+!#/bin/sh
+
+echo "---> starting pyodbc detect ..."
+echo "<--- ... pyodbc detect complete"
+return 1
